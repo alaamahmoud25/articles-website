@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "livereload": "^0.9.3",
+    "mongoose": "^6.0.5"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon --ext js,ejs --ignore public"
+  },
+  "name": "articles-website-lesson18",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaamahmoud25/articles-website.git"
+  },
+  "keywords": [
+    "26523nkLL"
+  ],
+  "author": "ALAA MAHMOUD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaamahmoud25/articles-website/issues"
+  },
+  "homepage": "https://github.com/alaamahmoud25/articles-website#readme",
+  "description": ""
+}
